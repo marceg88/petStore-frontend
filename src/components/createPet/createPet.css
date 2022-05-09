@@ -1,0 +1,40 @@
+.container-create {
+    display: flex;
+    padding-top: 50px;
+    flex-direction: column;
+    align-items: flex-end;
+}
+.button-back button{
+    margin: 20px;
+    width: 100px;
+    height: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #5F00ED;
+    border: none;
+    color: white;
+    font-weight: bold;
+}
+.container-form {
+    display: flex;
+    width: 70%;
+    padding: 20px;
+    margin: 0 auto;
+    flex-direction: column;
+    font-weight: 500;
+}
+.container-form .button-create {
+    
+    width: 100px;
+    height: 30px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    background-color: #5F00ED;
+    border: none;
+    color: white;
+    font-weight: bold;  
+}
